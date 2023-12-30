@@ -130,3 +130,6 @@ dmypy.json
 
 # Testing backups
 spot-archive-backup-*
+
+# Spotify Secrets
+src/spot_archive/spotify_secrets.py
